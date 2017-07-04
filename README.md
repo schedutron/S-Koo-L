@@ -1,5 +1,5 @@
 # S-Koo-L
-This is a revolutionary (or maybe evolutionary) school management system with an interface similar to that of SQL.
+This is a revolutionary (or maybe evolutionary) school management system with an easy-to-use interface resembling that of SQL.
 
 See the document in the [Documentation Stuff](/Documentation%20Stuff) directory to read about the project. This README will be updated soon.
 
