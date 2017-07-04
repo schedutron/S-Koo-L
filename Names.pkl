@@ -1,0 +1,14 @@
+(lp0
+S'Narendra Gandhi'
+p1
+aS'Mulayam Modi'
+p2
+aS'Sonia Yadav'
+p3
+aS'Rahul Yadav'
+p4
+aS'Sonia Singh'
+p5
+aS'Albert Newton'
+p6
+a.
