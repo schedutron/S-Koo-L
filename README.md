@@ -8,3 +8,5 @@ school's name. A lot of things (like school time, session length and school name
 Change the `start_t` (start time) on line 834 in [S-Koo-L.py](/S-Koo-L.py) to change the school start-time to any recent hour if you want to see the code running.
 
 There's a lot of room for improvement, so contributions are welcome!
+
+[Here's](https://www.dropbox.com/s/6xc6tdqdmh242v8/S-Koo-L%20Demo.mp4?dl=0) a link to an old, bad-quality demonstration video :)
