@@ -3,7 +3,7 @@ import string
 from __main__ import teachers, same_name_teachers, proxy_teachers, proxyFormat, printProxies, make_tod_sched, claMoni,\
      days, today, removed_proxies, comp_proxies, s_proxies, proxies, gen_proxies, custom_proxies, possible_positions,\
      pres_teachers, free_teachers, pres_session, outshell
-
+'''Indices defined here'''
 def find_indices(ele, list):
     locations = []
     for i in range(len(list)):
